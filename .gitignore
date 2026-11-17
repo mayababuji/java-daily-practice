@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Compiled Java files
+*.class
+out/
+target/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+#Notes
+/README.md
